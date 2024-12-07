@@ -46,23 +46,23 @@ transition: 0.4s;
 }
 .box span{
     position: absolute;
-    color: #efebeb37;
+    color: #efebeb37;dfalkdjfma.,vc
     top:50%;
 
     left: 15px;
 font-size: 16px;transition: 0.4s;
 transform:translateY(-50%);
-pointer-events: none;
+pointer-events: none;alkfdjak.vma.,
 
 
 }
 .box input :focus +span ,
 .box input:not(:placeholder-shown) + span
-{
+{fkajdmk.am.,famv
 top:5px;
 font-size: 12px;
 color: #00ffff;
-}
+}lkva.jskdm.
 .sub{
     background: linear-gradient(90deg,#00ffff,#00ff80);
     border:none;padding: 12px 30px;

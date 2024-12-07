@@ -10,7 +10,7 @@ but.onclick = function (event) {
     } else {
         password.type = "password";
     }
-    event.preventDefault();};
+    event.preventDefaultfadklam.,fada();};
 
 but1.onclick = function (event) {
     but1.classList.add('hide');
